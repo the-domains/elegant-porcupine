@@ -1,0 +1,14 @@
+layout_spectrum: 0.8861995239276439
+typography_spectrum: 0.008761415956541896
+color:
+  brandStrength: 0.16037738346494734
+  lightness: 0.4712272633332759
+  saturation: 0.1754124874714762
+  rhythmicContrast: 0.5876800792757422
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'elegant porcupine '
